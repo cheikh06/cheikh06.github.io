@@ -32,15 +32,15 @@ author: Cheikh A T TOURE               # change to your full name
 github:
   username: Cheikh06             # change to your github username
 
-#twitter:
- # username: twitter_username            # change to your twitter username
+twitter:
+  username: Cheikh Ahmed Tidiane TOURE            # change to your twitter username
 
 social:
   name: Cheikh A T TOURE                 # it will shows as the copyright owner in Footer
   email: tourecheikh05@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-   # - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/CheikhA99343082      # change to your twitter homepage
     - https://github.com/cheikh06       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
